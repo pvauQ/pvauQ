@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pvauQ
-- 👀 I’m interested in ... girls
-- 🌱 I’m currently learning ... how to talk to girls
-- 💞️ I’m looking to collaborate with ... nice girls
-- 📫 How to reach me ... come knock on my door ( if you are a nice girl)
+- 👀 I’m interested in ... skiing
+- 🌱 I’m currently learning ... how to jump on skiis!! ( I will learn  backfilp someday :p)
+- 📫 How to reach me ... come knock on my door
 
 <!---
 pvauQ/pvauQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
